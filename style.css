@@ -1,0 +1,66 @@
+.copy_right_footer {
+    position:fixed;
+    bottom:0;
+    width: 100%;
+    text-align: center;
+    color:azure;
+}
+
+body
+{
+background-image: linear-gradient(to top left, #93dcc4, #8daccb, #69abd3, #a2ada2);
+}
+
+h1
+{
+    font-family: "Papyrus";
+    font-style:oblique;
+    font-weight: bold;
+    color: azure;
+}
+
+h4
+{
+    font-family: "Monospace";
+    font-style: italic;
+    font-weight: 900px;
+    color: azure;
+}
+
+h3
+{
+    font-family: "Monospace";
+    font-style: italic;
+    font-weight: 900px;
+    color: azure;
+}
+
+label
+{
+    
+    font-family: "Monospace";
+    font-style: italic;
+    font-weight: 900px;
+    color: azure;
+}
+
+p
+{
+    font-family: "Monospace";
+    font-style: italic;
+    font-weight: 900px;
+    color: azure;
+}
+
+#camera
+{
+    width:600px;
+    height: 300px;
+    border:1px solid rgb(161, 54, 204);
+}
+
+img:hover
+{
+    border-radius: 140px;
+    box-shadow: 0 20px 22px 0 rgb(0, 0, 0);
+}
